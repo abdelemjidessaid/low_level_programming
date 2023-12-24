@@ -28,6 +28,6 @@
 
 This repository contains many low level programming languages, its table below:
 
-| Repository | Description                                                         |
-| ---------- | ------------------------------------------------------------------- |
-| [0x00-C]() | Many projects about C programming language that solves tasks on it. |
+| Repository                                                                           | Description            |
+| ------------------------------------------------------------------------------------ | ---------------------- |
+| [0x00-C](https://github.com/abdelemjidessaid/low_level_programming/tree/main/0x00-C) | C programming language |
